@@ -1,0 +1,43 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "server",
+    "db",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://3afFecgzUfJnkrx.root:koP53ekWf95xrI4r0YSv@gateway03.us-east-1.prod.aws.tidbcloud.com:4000/9suPKSVpCH8Cz439xHte3g?ssl={\"rejectUnauthorized\":true}"
+  },
+  "experiments": [
+    "no_db_push"
+  ],
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663764096796/9suPKSVpCH8Cz439xHte3g",
+    "access_key_id": "ASIAZV3A2ECZG37JXRCZ",
+    "secret_access_key": "5o12uQXhWnJnukdq8g2GEeSsEBrQaA/XfN5OkirI",
+    "session_token": "IQoJb3JpZ2luX2VjEK///////////wEaCXVzLWVhc3QtMSJGMEQCIAZ1T5MzhcnUqV+452qW0Xe8aUNnzQYgVxKP8hzD4NdDAiBPtI91KAN1kst2RlFJt2iXRiMJHQjKPPoFC6gVz52y1yr2Awh4EAQaDDY2NTM4NjA5ODg2NiIM1y6QhIszOomh488sKtMDM0+L8Vp+I/YamvC7qa++4b36HrOShgRAzcfty5lFApHHdeGYAiXD90h0vtmDs0ldXLhVVmlD5jrfjSFQJ1Ei/bCEVBIb2gTgzWXGva8Gsr9XZ7Mr9MtM5Dryq+NUtv/1d7ZIkUwBs3pjtZ3ibDLAnMp/Tm2SdAu2so5kaADdZxeg3R0U187WgCYqLwK3dL2aeXcGp1MfysqraxFET7LMrnSGfXLkLUSkTLQZwSK78Wt/pQ6pcYO+Z3pN2PHsflPUcjzdIY1A5w9wZ9MRaMump/5O4eMFBcquUpMLvvc0eaFVVXWIMI+tCF+SxY3PxiwRZBRwNHFHf0w+y/oW+bRx4RXY6KYgKMSpFJVcLFG1WtWC+neN4lm2d0SDgB2p2IsGaCUX5Go4bBBzHFFPCEbymA9KUAB6OI8+HgrMOlLAtxmgALwDjf1DTrF3IczMQAadFPRrNLGWhZr0anfZBax7pam1R5kzoMlRxmGqInKGCjEOavMURKSuxsx1xCD4pAJHcUtC5gnBuFO0dn+kIv3c8ElbriCt7lSR1/g9WOdtM7Ka/PgQ13/KAsDhRWYlpHXjs8jtDTrIYCNuCzUkznncssYegpSVuzU9isACNKaC+cTV/rYw5sHF0QY6ngHktalCkJsuVZlUnqLny14RJLODFELWA05n/5DWiKNh5PcJRAExude7xpbaheHUMh383cym6vVGKT6MS1ZV2YzOZkeiOA4isFPlrAXLMVHIyWKwsmu0hZokMdqqiiki+zCCu/UgpeT4D8X+8+DhlEsLd0+W6Y28IZC/i5qp2nvLKoJFP0qVqLsC3kE3TmabeQcSJcKUwvAEfda/Vk38Sg==",
+    "expiration": "2026-06-17T02:42:46.000Z"
+  },
+  "name": "powerzone-cricket-site",
+  "path": "/home/ubuntu/powerzone-cricket-site",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "LMgjX49Ww5TfyRssAAY8k4",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "hRDRkssTZJEW4WsBUujtCJ",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Zoheb Sharif",
+    "OWNER_OPEN_ID": "TqXQjYG6Q7s6b5zxFqofdR",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "1d0be356-0f84-4705-a2c8-6538c3481cf3",
+    "VITE_APP_ID": "9suPKSVpCH8Cz439xHte3g",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Powerzone Cricket - Elite Batting Development",
+    "VITE_FRONTEND_FORGE_API_KEY": "Z5LvZHiikusA7Nz4QFvZhZ",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}

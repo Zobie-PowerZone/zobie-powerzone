@@ -41,7 +41,7 @@ export default function Home() {
         <div className="container flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <img src="/logo.png" alt="Powerzone Cricket" className="h-16 w-auto" />
+            <img src="/manus-storage/4088EE13-A8A8-471F-BEDB-976378B063DF_dee54b2f.png" alt="Powerzone Cricket" className="h-20 w-auto" />
           </div>
 
           {/* Desktop Navigation */}

@@ -1,0 +1,412 @@
+[2026-06-16T14:42:54.543Z] Starting dev server with command: pnpm run dev
+[2026-06-16T14:42:58.414Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T14:42:58.414Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T14:42:59.723Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T14:42:59.915Z] Server running on http://localhost:3000/
+[2026-06-16T16:31:53.264Z] 4:31:53 PM [vite] (client) page reload index.html
+[2026-06-16T16:32:43.853Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:32:44.174Z] 4:32:44 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:32:44.174Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:32:44.174Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:32:44.174Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:32:44.174Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:32:44.174Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:32:44.174Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:32:44.174Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:32:44.174Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:32:44.174Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:32:44.174Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:32:44.174Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:32:44.174Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:32:44.174Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:32:44.174Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:32:44.174Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:32:44.174Z] 4:32:44 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:32:44.174Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:32:44.174Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:32:44.383Z] 4:32:44 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:32:44.384Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:32:44.384Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:32:47.162Z] 4:32:47 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:32:47.162Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:32:47.162Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:33:16.283Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:33:16.301Z] Dev server exited with code -1
+[2026-06-16T16:33:17.395Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:33:17.963Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:33:17.963Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:33:19.299Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:33:19.462Z] Server running on http://localhost:3000/
+[2026-06-16T16:33:25.899Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:33:26.100Z] 4:33:26 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:33:26.100Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:33:26.100Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:33:29.266Z] 4:33:29 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:33:29.266Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:33:29.266Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:33:29.458Z] 4:33:29 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:33:29.458Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:33:29.458Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:33:29.458Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:33:29.458Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:33:29.458Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:33:29.458Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:33:29.458Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:33:29.458Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:33:29.458Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:33:29.458Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:33:29.458Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:33:29.458Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:33:29.458Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:33:29.458Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:33:29.458Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:33:29.458Z] at async viteTransformMiddleware (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-16T16:33:29.488Z] 4:33:29 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:33:29.488Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:33:29.488Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:33:29.530Z] 4:33:29 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`
+[2026-06-16T16:33:29.530Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:33:29.530Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:34:05.613Z] 4:34:05 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-16T16:34:11.099Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:34:11.136Z] Dev server exited with code -1
+[2026-06-16T16:34:12.209Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:34:12.746Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:34:12.747Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:34:13.962Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:34:14.123Z] Server running on http://localhost:3000/
+[2026-06-16T16:34:14.454Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:34:14.845Z] 4:34:14 PM [vite] Internal server error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:34:14.845Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:34:14.845Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:34:14.845Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:34:14.845Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:34:14.845Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:34:14.845Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:34:14.845Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:34:14.845Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:34:14.845Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:34:14.845Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:34:14.845Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:34:14.845Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:34:14.845Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:34:14.845Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:34:14.845Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:34:14.846Z] 4:34:14 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:34:14.846Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:34:14.846Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:34:15.072Z] 4:34:15 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:34:15.073Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:34:15.073Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:34:15.073Z] 4:34:15 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:34:15.073Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:34:15.073Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:35:06.833Z] 4:35:06 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-16T16:36:36.720Z] 4:36:36 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-16T16:36:49.565Z] 4:36:49 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-16T16:36:53.050Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:36:53.080Z] Dev server exited with code -1
+[2026-06-16T16:36:54.151Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:36:54.710Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:36:54.710Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:36:55.868Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:36:56.033Z] Server running on http://localhost:3000/
+[2026-06-16T16:36:56.386Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:36:56.753Z] 4:36:56 PM [vite] Internal server error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:36:56.753Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:36:56.753Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:36:56.753Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:36:56.753Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:36:56.753Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:36:56.753Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:36:56.753Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:36:56.753Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:36:56.753Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:36:56.753Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:36:56.753Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:36:56.753Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:36:56.753Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:36:56.753Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:36:56.753Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:36:56.754Z] 4:36:56 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:36:56.754Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:36:56.754Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:36:56.805Z] 4:36:56 PM [vite] (client) Pre-transform error: /home/ubuntu/powerzone-cricket-site/client/src/pages/Home.tsx: Unexpected token (280:130)
+[2026-06-16T16:36:56.805Z] 278 |
+[2026-06-16T16:36:56.805Z] 279 |       {/* Camps Section */}
+[2026-06-16T16:36:56.805Z] > 280 |       <section id="camps" className="section-padding border-t border-b" style={{ backgroundColor: "rgba(25, 35, 55, 0.3)", style={{ borderTopColor: 'rgb(51, 65, 85)', borderBottomColor: 'rgb(51, 65, 85)' }}>
+[2026-06-16T16:36:56.805Z] |                                                                                                                                   ^
+[2026-06-16T16:36:56.805Z] 281 |         <div className="container">
+[2026-06-16T16:36:56.805Z] 282 |           <h2 className="section-title">Cricket Camps</h2>
+[2026-06-16T16:36:56.805Z] 283 |           <p className="section-subtitle">Intensive development programmes for ages 6–15</p>
+[2026-06-16T16:36:56.805Z] Plugin: vite:react-babel
+[2026-06-16T16:36:56.805Z] File: /home/ubuntu/powerzone-cricket-site/client/src/pages/Home.tsx:280:130
+[2026-06-16T16:36:56.805Z] 278 |
+[2026-06-16T16:36:56.805Z] 279 |        {/* Camps Section */}
+[2026-06-16T16:36:56.805Z] 280 |  ..." style={{ backgroundColor: "rgba(25, 35, 55, 0.3)", style={{ borderTopColor: 'rgb(51, 65, 85)', borderBottomColor...
+[2026-06-16T16:36:56.805Z] |                                                                 ^
+[2026-06-16T16:36:56.805Z] 281 |          <div className="container">
+[2026-06-16T16:36:56.805Z] 282 |            <h2 className="section-title">Cricket Camps</h2>
+[2026-06-16T16:36:56.922Z] 4:36:56 PM [vite] Internal server error: /home/ubuntu/powerzone-cricket-site/client/src/pages/Home.tsx: Unexpected token (280:130)
+[2026-06-16T16:36:56.922Z] 278 |
+[2026-06-16T16:36:56.922Z] 279 |       {/* Camps Section */}
+[2026-06-16T16:36:56.922Z] > 280 |       <section id="camps" className="section-padding border-t border-b" style={{ backgroundColor: "rgba(25, 35, 55, 0.3)", style={{ borderTopColor: 'rgb(51, 65, 85)', borderBottomColor: 'rgb(51, 65, 85)' }}>
+[2026-06-16T16:36:56.922Z] |                                                                                                                                   ^
+[2026-06-16T16:36:56.922Z] 281 |         <div className="container">
+[2026-06-16T16:36:56.922Z] 282 |           <h2 className="section-title">Cricket Camps</h2>
+[2026-06-16T16:36:56.922Z] 283 |           <p className="section-subtitle">Intensive development programmes for ages 6–15</p>
+[2026-06-16T16:36:56.922Z] Plugin: vite:react-babel
+[2026-06-16T16:36:56.922Z] File: /home/ubuntu/powerzone-cricket-site/client/src/pages/Home.tsx:280:130
+[2026-06-16T16:36:56.922Z] 278 |
+[2026-06-16T16:36:56.922Z] 279 |        {/* Camps Section */}
+[2026-06-16T16:36:56.922Z] 280 |  ..." style={{ backgroundColor: "rgba(25, 35, 55, 0.3)", style={{ borderTopColor: 'rgb(51, 65, 85)', borderBottomColor...
+[2026-06-16T16:36:56.922Z] |                                                                 ^
+[2026-06-16T16:36:56.922Z] 281 |          <div className="container">
+[2026-06-16T16:36:56.922Z] 282 |            <h2 className="section-title">Cricket Camps</h2>
+[2026-06-16T16:36:56.922Z] at toParseError (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parse-error.ts:95:45)
+[2026-06-16T16:36:56.922Z] at raise (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/tokenizer/index.ts:1503:19)
+[2026-06-16T16:36:56.922Z] at unexpected (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/tokenizer/index.ts:1543:16)
+[2026-06-16T16:36:56.922Z] at parsePropertyName (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2441:18)
+[2026-06-16T16:36:56.922Z] at parsePropertyDefinition (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2188:10)
+[2026-06-16T16:36:56.922Z] at parseObjectLike (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2085:21)
+[2026-06-16T16:36:56.922Z] at parseExprAtom (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:1174:21)
+[2026-06-16T16:36:56.922Z] at parseExprAtom (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:583:22)
+[2026-06-16T16:36:56.922Z] at parseExprSubscripts (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:734:23)
+[2026-06-16T16:36:56.922Z] at parseUpdate (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:713:21)
+[2026-06-16T16:36:56.922Z] at parseMaybeUnary (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:675:23)
+[2026-06-16T16:36:56.922Z] at parseMaybeUnary (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:3855:20)
+[2026-06-16T16:36:56.922Z] at parseMaybeUnaryOrPrivate (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:409:14)
+[2026-06-16T16:36:56.922Z] at parseExprOps (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:421:23)
+[2026-06-16T16:36:56.922Z] at parseMaybeConditional (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:376:23)
+[2026-06-16T16:36:56.922Z] at parseMaybeAssign (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:301:21)
+[2026-06-16T16:36:56.922Z] at parseMaybeAssign (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:3727:22)
+[2026-06-16T16:36:56.922Z] at callback (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel
+[2026-06-16T16:36:56.922Z] /parser/src/parser/expression.ts:257:12)
+[2026-06-16T16:36:56.922Z] at allowInAnd (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:3192:12)
+[2026-06-16T16:36:56.922Z] at parseMaybeAssignAllowIn (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:256:17)
+[2026-06-16T16:36:56.922Z] at parseMaybeDefault (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/lval.ts:586:23)
+[2026-06-16T16:36:56.922Z] at parseMaybeDefault (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:4069:26)
+[2026-06-16T16:36:56.922Z] at parseObjectProperty (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2344:27)
+[2026-06-16T16:36:56.922Z] at parseObjPropValue (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2378:12)
+[2026-06-16T16:36:56.922Z] at parseObjPropValue (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:3638:20)
+[2026-06-16T16:36:56.923Z] at parsePropertyDefinition (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2218:17)
+[2026-06-16T16:36:56.923Z] at parseObjectLike (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:2085:21)
+[2026-06-16T16:36:56.923Z] at parseExprAtom (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:1174:21)
+[2026-06-16T16:36:56.923Z] at parseExprAtom (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:583:22)
+[2026-06-16T16:36:56.923Z] at parseExprSubscripts (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:734:23)
+[2026-06-16T16:36:56.923Z] at parseUpdate (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:713:21)
+[2026-06-16T16:36:56.923Z] at parseMaybeUnary (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:675:23)
+[2026-06-16T16:36:56.923Z] at parseMaybeUnary (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:3855:20)
+[2026-06-16T16:36:56.923Z] at parseMaybeUnaryOrPrivate (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:409:14)
+[2026-06-16T16:36:56.923Z] at parseExprOps (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:421:23)
+[2026-06-16T16:36:56.923Z] at parseMaybeConditional (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:376:23)
+[2026-06-16T16:36:56.923Z] at parseMaybeAssign (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:301:21)
+[2026-06-16T16:36:56.923Z] at parseMaybeAssign (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:3727:22)
+[2026-06-16T16:36:56.923Z] at parseExpressionBase (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:226:23)
+[2026-06-16T16:36:56.923Z] at callback (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:217:39)
+[2026-06-16T16:36:56.923Z] at allowInAnd (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:3192:12)
+[2026-06-16T16:36:56.923Z] at parseExpression (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/parser/expression.ts:217:17)
+[2026-06-16T16:36:56.923Z] at jsxParseExpressionContainer (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.
+[2026-06-16T16:36:56.923Z] 28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:376:33)
+[2026-06-16T16:36:56.923Z] at jsxParseAttributeValue (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:331:23)
+[2026-06-16T16:36:56.923Z] at jsxParseAttribute (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:414:43)
+[2026-06-16T16:36:56.923Z] at jsxParseOpeningElementAfterName (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:440:30)
+[2026-06-16T16:36:56.923Z] at jsxParseOpeningElementAfterName (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/typescript/index.ts:4171:20)
+[2026-06-16T16:36:56.923Z] at jsxParseOpeningElementAt (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:430:19)
+[2026-06-16T16:36:56.923Z] at jsxParseElementAt (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:470:35)
+[2026-06-16T16:36:56.923Z] at jsxParseElementAt (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/src/plugins/jsx/index.ts:483:34)
+[2026-06-16T16:36:56.968Z] 4:36:56 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:36:56.968Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:36:56.968Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:36:56.968Z] 4:36:56 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:36:56.968Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:36:56.968Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:36:56.968Z] 4:36:56 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:36:56.968Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:36:56.968Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:37:42.786Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:37:42.816Z] Dev server exited with code -1
+[2026-06-16T16:37:43.898Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:37:44.477Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:37:44.477Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:37:45.714Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:37:45.866Z] Server running on http://localhost:3000/
+[2026-06-16T16:37:46.132Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:37:46.475Z] 4:37:46 PM [vite] Internal server error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:37:46.475Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:37:46.475Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:37:46.475Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:37:46.475Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:37:46.475Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:37:46.475Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:37:46.475Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:37:46.475Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:37:46.475Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:37:46.475Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:37:46.475Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:37:46.475Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:37:46.475Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:37:46.475Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:37:46.475Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:37:46.476Z] 4:37:46 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:37:46.476Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:37:46.476Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:37:46.687Z] 4:37:46 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:37:46.687Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:37:46.687Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:37:46.695Z] 4:37:46 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:37:46.695Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:37:46.695Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:37:54.689Z] 4:37:54 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-16T16:38:03.479Z] 4:38:03 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-16T16:38:09.693Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:38:09.780Z] Dev server exited with code -1
+[2026-06-16T16:38:10.805Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:38:11.341Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:38:11.341Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:38:12.545Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:38:12.717Z] Server running on http://localhost:3000/
+[2026-06-16T16:38:13.061Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:38:13.411Z] 4:38:13 PM [vite] Internal server error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:38:13.411Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:13.411Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:13.411Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:38:13.411Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:38:13.411Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:38:13.411Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:38:13.411Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:38:13.411Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:38:13.411Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:38:13.411Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:38:13.411Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:38:13.411Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:38:13.411Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:38:13.411Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:38:13.411Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:38:13.411Z] 4:38:13 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:38:13.411Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:13.411Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:13.627Z] 4:38:13 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:38:13.628Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:13.628Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:13.636Z] 4:38:13 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-background`
+[2026-06-16T16:38:13.636Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:13.636Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:40.548Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:38:40.608Z] Dev server exited with code -1
+[2026-06-16T16:38:41.658Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:38:42.208Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:38:42.208Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:38:43.397Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:38:43.561Z] Server running on http://localhost:3000/
+[2026-06-16T16:38:43.913Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:38:44.310Z] 4:38:44 PM [vite] Internal server error: Cannot apply unknown utility class `bg-primary`
+[2026-06-16T16:38:44.310Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:44.310Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:44.310Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:38:44.310Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:38:44.310Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:38:44.310Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:38:44.310Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:38:44.310Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:38:44.310Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:38:44.310Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:38:44.310Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:38:44.310Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:38:44.310Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:38:44.310Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:38:44.310Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:38:44.311Z] 4:38:44 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-primary`
+[2026-06-16T16:38:44.311Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:44.311Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:44.543Z] 4:38:44 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-primary`
+[2026-06-16T16:38:44.543Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:44.543Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:44.553Z] 4:38:44 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `bg-primary`
+[2026-06-16T16:38:44.553Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:38:44.553Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:38:59.606Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:38:59.684Z] Dev server exited with code -1
+[2026-06-16T16:39:00.717Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:39:01.255Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:39:01.255Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:39:02.517Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:39:02.685Z] Server running on http://localhost:3000/
+[2026-06-16T16:39:02.998Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:39:03.399Z] 4:39:03 PM [vite] Internal server error: Cannot apply unknown utility class `text-secondary-foreground`
+[2026-06-16T16:39:03.399Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:39:03.399Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:39:03.399Z] at onInvalidCandidate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1529)
+[2026-06-16T16:39:03.399Z] at pe (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-16T16:39:03.399Z] at file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-16T16:39:03.399Z] at j (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-16T16:39:03.399Z] at Ke (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-16T16:39:03.399Z] at ii (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-16T16:39:03.399Z] at async vn (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-16T16:39:03.399Z] at async Ol (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-16T16:39:03.399Z] at async Ka (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-16T16:39:03.399Z] at async C.generate (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-16T16:39:03.399Z] at async TransformPluginContext.transform (file:///home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-16T16:39:03.399Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-16T16:39:03.399Z] at async loadAndTransform (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-16T16:39:03.400Z] 4:39:03 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `text-secondary-foreground`
+[2026-06-16T16:39:03.400Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:39:03.400Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:39:03.633Z] 4:39:03 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `text-secondary-foreground`
+[2026-06-16T16:39:03.633Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:39:03.633Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:39:03.644Z] 4:39:03 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `text-secondary-foreground`
+[2026-06-16T16:39:03.644Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-16T16:39:03.644Z] File: /home/ubuntu/powerzone-cricket-site/client/src/index.css
+[2026-06-16T16:39:31.161Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:39:31.223Z] Dev server exited with code -1
+[2026-06-16T16:39:32.272Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:39:32.829Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:39:32.829Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:39:34.120Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:39:34.284Z] Server running on http://localhost:3000/
+[2026-06-16T16:39:44.381Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T16:41:05.728Z] 4:41:05 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T16:46:27.006Z] 4:46:27 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T16:47:30.040Z] 4:47:30 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T16:54:16.581Z] 4:54:16 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T16:56:10.418Z] ELIFECYCLE  Command failed.
+[2026-06-16T16:56:10.447Z] Dev server exited with code -1
+[2026-06-16T16:56:11.535Z] Starting dev server with command: pnpm run dev
+[2026-06-16T16:56:12.133Z] > powerzone-cricket-site@1.0.0 dev /home/ubuntu/powerzone-cricket-site
+[2026-06-16T16:56:12.134Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-16T16:56:13.428Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T16:56:13.590Z] Server running on http://localhost:3000/
+[2026-06-16T16:56:24.952Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T17:03:59.142Z] 5:03:59 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T17:05:03.095Z] BadRequestError: request aborted
+[2026-06-16T17:05:03.095Z] at IncomingMessage.onAborted (/home/ubuntu/powerzone-cricket-site/node_modules/.pnpm/raw-body@2.5.2/node_modules/raw-body/index.js:245:10)
+[2026-06-16T17:05:03.095Z] at IncomingMessage.emit (node:events:524:28)
+[2026-06-16T17:05:03.095Z] at IncomingMessage._destroy (node:_http_incoming:221:10)
+[2026-06-16T17:05:03.095Z] at _destroy (node:internal/streams/destroy:122:10)
+[2026-06-16T17:05:03.095Z] at IncomingMessage.destroy (node:internal/streams/destroy:84:5)
+[2026-06-16T17:05:03.095Z] at abortIncoming (node:_http_server:809:9)
+[2026-06-16T17:05:03.095Z] at socketOnClose (node:_http_server:803:3)
+[2026-06-16T17:05:03.095Z] at Socket.emit (node:events:536:35)
+[2026-06-16T17:05:03.095Z] at TCP.<anonymous> (node:net:351:12)
+[2026-06-16T17:07:40.183Z] 5:07:40 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T19:44:11.620Z] 7:44:11 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T19:52:34.429Z] 7:52:34 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T20:12:41.358Z] 8:12:41 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T20:12:59.516Z] 8:12:59 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T21:12:01.705Z] 9:12:01 PM [tsx] change in ./vite.config.ts Restarting...
+[2026-06-16T21:12:01.736Z] c
+[2026-06-16T21:12:03.210Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T21:12:03.388Z] Server running on http://localhost:3000/
+[2026-06-16T21:12:03.990Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T22:13:31.595Z] 10:13:31 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T23:34:57.467Z] 11:34:57 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T23:37:21.215Z] 11:37:21 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T23:48:12.938Z] 11:48:12 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-06-16T23:48:13.034Z] 11:48:13 PM [vite] (client) hmr update /src/index.css
+[2026-06-16T23:48:13.042Z] 11:48:13 PM [tsx] change in ./vite.config.ts Restarting...
+[2026-06-16T23:48:13.056Z] c
+[2026-06-16T23:48:14.177Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-16T23:48:14.340Z] Server running on http://localhost:3000/
+[2026-06-16T23:48:15.087Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-16T23:55:26.471Z] 11:55:26 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
